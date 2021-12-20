@@ -1,1 +1,0 @@
-# farris-laundry-frontend
